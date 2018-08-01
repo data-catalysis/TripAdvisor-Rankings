@@ -1,0 +1,12 @@
+include
+lib
+lib64
+.ipynb_checkpoints
+**/*.pyc
+**/*.cfg
+/**/__pycache__/
+/**/pyenv.cfg
+nohup.out
+nohup.pid
+venv/**
+.vscode/settings.json
